@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://liukaitj.github.io
+name: liukaitj的博客
+author: liukaitj
+qq: 52251414
+email: liukai.tci@gmail.com
+duoshuo: SeamInAction
+weibo: SeamInAction
+github: liukaitj
+pygments: true
+safe: true
+paginate: 20
+about: "liukaitj的博客"
